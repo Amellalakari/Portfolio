@@ -13,7 +13,8 @@
 - Ph.D., Biomedicne- Biomedical engineering | University of Barcelona , Barcelona (_Sep 2025_)    		
 - M.Tech., Nanotechnology( Nanomedicine)	| Amity University ( AINT)  (_Nov 2019_)	 			        		
 - B.Tech., Nanotechnolgy| Amity University ( AINT) (_Nov 2018_)
- [*Transcripts and Certificates*](https://github.com/Amellalakari/portfolio/blob/aac854fc75360e940430e151102f9313ec103374/asset/Transcripts%20and%20Certificates%20UAANS.pdf)
+  
+[*Transcripts and Certificates*](https://github.com/Amellalakari/portfolio/blob/aac854fc75360e940430e151102f9313ec103374/asset/Transcripts%20and%20Certificates%20UAANS.pdf)
  
 ## Work Experience
 **Pre-doctoral researcher** at the Institute for Bioengineering of Catalunya, Barcelona, Spain
