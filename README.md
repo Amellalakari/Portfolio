@@ -1,7 +1,7 @@
 # portfolio
 
 # Aishwarya Mellalakari
-[image](/asset/Photo.jpeg)
+[image](asset/Photo.jpeg)
 
 # Scientist-Biomedical Engineer
 
@@ -40,33 +40,32 @@ Development of Splenic Chip Model for studying Rheological properties of the Red
 ## Spleen-on-Chip Project
 
 In my PhD, I developed a Spleen-on-Chip model to study the mechanical properties of red blood cells (RBCs). This innovative microfluidic device mimics the spleen's microenvironment, enabling precise analysis of RBC deformability under both normoxic and hypoxic conditions. The project involved advanced techniques such as microfabrication, cell culture, and finite element analysis (FEA) to design and validate the device. This model has potential applications in understanding blood disorders and developing targeted therapies. My work culminated in significant insights into RBC behavior, contributing to the advancement of organ-on-chip technology.
-[image](/asset/spleenonchip.png)
+
 
 ### Device Optimization Using COMSOL Simulations
 
 Utilized COMSOL Multiphysics to simulate and optimize the microfluidic device design. These simulations played a crucial role in understanding fluid dynamics, shear stresses, and particle behavior within the chip. By leveraging COMSOL, I was able to refine the design parameters to ensure accurate replication of the spleen's microenvironment, enhancing the device's performance and reliability for studying red blood cell mechanics and interactions. This process demonstrated my expertise in computational modeling and its application to microfluidic device development.
-[COMSOL Simulations](/asset/comsol.e.png)
+
 
 ### Microfabrication Techniques
 Advanced microfabrication techniques to create precise and functional microfluidic devices. I utilized photolithography and backside lithography to design and fabricate intricate microchannel structures that mimic the spleen's microenvironment. These techniques allowed for high-resolution patterning and ensured the scalability of the device. Additionally, soft lithography using PDMS (polydimethylsiloxane) was employed to construct the chip, offering flexibility and biocompatibility essential for cellular studies. My proficiency in microfabrication ensured the development of a robust platform for studying red blood cell mechanics.
-[Photolithography](/asset/PDMSMicrofluidicChipFabricationcopy.png)
+
 
 ## Cell Culture in Microfluidic Devices
 As part of my research, I optimized and performed cell culture inside microfluidic devices to replicate physiological conditions. This process involved the isolation and introduction of red blood cells (RBCs) and monocytes into precisely fabricated microchannels. Using controlled flow rates and media, I maintained viable cell cultures under dynamic conditions, enabling the study of cell behavior, interactions, and mechanical properties within the device. The microfluidic platform ensured a high degree of control over environmental parameters, facilitating detailed analyses of cell function and response in both normoxic and hypoxic conditions.
-[image](asset/Slide2copy.png),[gif](asset/Amira_AishuÇ_0.1ul_20pª_1000fps_C001S0012.gif)
+
 
 ## Cell Culture of Macrophages and Endothelial Cells in Microfluidic Devices
 In my research, I successfully cultured macrophages and endothelial cells inside microfluidic devices to replicate tissue-specific microenvironments. These cultures required precise control of flow conditions, media composition, and environmental parameters to ensure cell viability and functionality. The platform facilitated the study of macrophage-endothelial interactions and their response to varying physiological conditions. This work highlighted the potential of microfluidic systems for studying complex cell behaviors and their applications in tissue engineering and disease modeling.
-[image](asset/Slide3.png),[image](asset/Slide2.png) 
+
  
 ## Solar Photocatalysis for Water Purification
 I contributed to the development of rGO-PANI-assisted c-ZnO heterojunction nanocomposites for solar light-activated photocatalytic degradation of pharmaceutical pollutants and dyes. My work involved the synthesis of advanced nanocomposites and their characterization using techniques such as XRD, FE-SEM, and UV-Vis spectroscopy. The research demonstrated the potential of these nanocomposites to efficiently degrade antibiotics like amoxicillin and dyes under natural sunlight, providing a sustainable approach to industrial effluent treatment and water purification​.
-[publication](asset/1-s2.0-S0272884221008956-main.pdf)
 
 ## Courses and certifications 
-- CFD Simulations in COMSOL Multiphysics [certificate](https://github.com/Amellalakari/Portfolio/blob/70fd55193bc106c3ae176220dff6bfb839441431/asset/Exploring%20entrprenureship_cert.pdf)
-- Quantitative Light Microscopy at Centre for Genomic Regulation (CRG), Barcelona  [certificate](https://github.com/Amellalakari/Portfolio/blob/70fd55193bc106c3ae176220dff6bfb839441431/asset/CRG_certificate.pdf)
--Exploringentrprenureship [certificate](https://github.com/Amellalakari/Portfolio/blob/70fd55193bc106c3ae176220dff6bfb839441431/asset/Exploring%20entrprenureship_cert.pdf)
+- CFD Simulations in COMSOL Multiphysics [certificate]
+- Quantitative Light Microscopy at Centre for Genomic Regulation (CRG), Barcelona  [certificate]
+-Exploringentrprenureship [certificate]
 -	To process to establish a spin-off/start-up at IBEC
 -	Basic notions to understand and deal with Venture Capital companies 
 -	Researcher - Industry: modes of partnership 
