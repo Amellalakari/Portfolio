@@ -48,7 +48,7 @@ In my PhD, I developed a Spleen-on-Chip model to study the mechanical properties
 Utilized COMSOL Multiphysics to simulate and optimize the microfluidic device design. These simulations were crucial in understanding fluid dynamics, shear stresses, and particle behavior within the chip. By leveraging COMSOL, I refined the design parameters to ensure accurate replication of the spleen's microenvironment, enhancing the device's performance and reliability for studying red blood cell mechanics and interactions. This process demonstrated my expertise in computational modeling and its application to microfluidic device development.
 
 ### Microfabrication Techniques
-![image] (asset/PDMS Microfluidic Chip Fabrication copy.png).
+![image](asset/PDMS Microfluidic Chip Fabrication copy.png).
 
 Advanced microfabrication techniques to create precise and functional microfluidic devices. I utilized photolithography and backside lithography to design and fabricate intricate microchannel structures that mimic the spleen's microenvironment. These techniques allowed for high-resolution patterning and ensured the scalability of the device. Additionally, soft lithography using PDMS (polydimethylsiloxane) was employed to construct the chip, offering flexibility and biocompatibility essential for cellular studies. My proficiency in microfabrication ensured the development of a robust platform for studying red blood cell mechanics.
 
@@ -57,7 +57,7 @@ Advanced microfabrication techniques to create precise and functional microfluid
 
 As part of my research, I optimized and performed cell culture inside microfluidic devices to replicate physiological conditions. This process involved the isolation and introduction of red blood cells (RBCs) and monocytes into precisely fabricated microchannels. Using controlled flow rates and media, I maintained viable cell cultures under dynamic conditions, enabling the study of cell behavior, interactions, and mechanical properties within the device. The microfluidic platform ensured a high degree of control over environmental parameters, facilitating detailed analyses of cell function and response in both normoxic and hypoxic conditions.
 
-[Gif](asset/Amira_AishuÇ_0.1ul_20pª_1000fps_C001S0012.gif)
+![Gif](asset/Amira_AishuÇ_0.1ul_20pª_1000fps_C001S0012.gif)
 
 ## Cell Culture of Macrophages and Endothelial Cells in Microfluidic Devices
 
