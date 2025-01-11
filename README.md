@@ -13,12 +13,12 @@
 - Digital Skills: C++, Python , AUTOCAD, COMSOL, Microsoft Office package: Microsoft Word, Excel, PowerPoint, outlook, teams.
 
 ## Education
-- Ph.D., Biomedicne- Biomedical engineering | University of Barcelona , Barcelona (_Sep 2025_)       		
+- Ph.D., Biomedicne- Biomedical engineering | University of Barcelona , Barcelona (_Sep 2025_)    		
 - M.Tech., Nanotechnology( Nanomedicine)	| Amity University ( AINT)  (_Nov 2019_)	 			        		
 - B.Tech., Nanotechnolgy| Amity University ( AINT) (_Nov 2018_)
 
 ## Work Experience
-**Pre doctoral researcher at Institute for Bioengineering of Catalunya, Barcelona, Spain
+**Pre-doctoral researcher at the Institute for Bioengineering of Catalunya, Barcelona, Spain
 Development of Splenic Chip Model for studying Rheological properties of the Red blood cells under Prof. Josep Samitier Marti.
 - Designed prototypes using SolidWorks and AutoCAD, optimizing ergonomic and manufacturable device enclosures for microfluidic applications.
 - Conducted iterative testing protocols, including mechanical, thermal, and environmental testing, ensuring compliance with ISO 13485 standards.
