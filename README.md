@@ -1,6 +1,6 @@
 # portfolio
 
-# Scientist-Biomedical Engineer
+## Scientist-Biomedical Engineer
 
 ## SKILLS
 - *Microfabrication techniques*: Plasma cleaner, UV Mask aligner, Spin coater, Profilometry, Soft lithography, Backside lithography.
