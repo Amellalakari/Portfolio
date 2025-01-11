@@ -82,6 +82,27 @@ I contributed to developing rGO-PANI-assisted c-ZnO heterojunction nanocomposite
 -	Researcher - Industry: modes of partnership 
 -	Powerful Presentations Workshop for Scientists 
 -	How to reach the industry
+-	Seat in programming for everybody (Getting started with python)
+-	How to write a strong abstract
+- Learning to write clearly, the ‘how’ of good scientific writing
+- How to be a successful PhD outside of academia?
+ 
+## Talks and webinars 
+RBC seminars organised by EVIDENCE team of MSCA ITN consortium
+- (30/04/2021)Wassim El Nemer -the basic principles of erythropoiesis
+- (11.06.2021)Anna Bogdanova - about the oxygen transport properties of RBCs.
+- (14.10.2021) Virtual RED cell club Meeting 
+- (12.11.2021) Prof. Heimo Mairbäurl Red Blood Cells at High Altitude. 
+- (07.01.2022) Alexis Darras -new views on the Erythrocyte Sedimentation Rate (ESR). 
+- (04.02.2022)Prashant Warang -'Red blood cell enzymopathies in Hereditary hemolytic anemia'.
+- HEMPHYS2 2nd International School on HemoPhysics
+- How to be a successful PhD outside of academia?
+- EMBL-IBEC Winter Conference on Engineering multicellular systems 2nd edition
+- 15th IBEC Symposium: Bioengineering for Active Aging
+- Microfluidics Symposium: Addressing Challenges in Life Science Fluidics  ICMS Annual Symposium
+- First International "Blood Tissue Interfaces" Conference in Montpellier
+   
+![image](https://github.com/user-attachments/assets/78df77fc-a9fb-4889-a171-3dafdbe925ee)
 
 ## Publications
 1. Mellalakari, Aishwarya. (2024). Chapter Title: Spleen on a Chip. In Atala, A. & Zhang, , Body-on-a-Chip: Essentials and Applications. Elsevier ( under Review)
