@@ -95,15 +95,13 @@ RBC seminars organised by EVIDENCE team of MSCA ITN consortium
 - (12.11.2021) Prof. Heimo Mairbäurl Red Blood Cells at High Altitude. 
 - (07.01.2022) Alexis Darras -new views on the Erythrocyte Sedimentation Rate (ESR). 
 - (04.02.2022)Prashant Warang -'Red blood cell enzymopathies in Hereditary hemolytic anemia'.
+## Conferences
 - HEMPHYS2 2nd International School on HemoPhysics
-- How to be a successful PhD outside of academia?
 - EMBL-IBEC Winter Conference on Engineering multicellular systems 2nd edition
 - 15th IBEC Symposium: Bioengineering for Active Aging
 - Microfluidics Symposium: Addressing Challenges in Life Science Fluidics  ICMS Annual Symposium
 - First International "Blood Tissue Interfaces" Conference in Montpellier
-   
-![image](https://github.com/user-attachments/assets/78df77fc-a9fb-4889-a171-3dafdbe925ee)
-
+  
 ## Publications
 1. Mellalakari, Aishwarya. (2024). Chapter Title: Spleen on a Chip. In Atala, A. & Zhang, , Body-on-a-Chip: Essentials and Applications. Elsevier ( under Review)
 2. Edugulla, Girija & Aishwarya, Mellalakari & Khan, Anas & Kumar, A.B.V & Yu, Jae. (2021). Efficient solar light photocatalytic degradation of commercial pharmaceutical drug and dye using rGO-PANI assisted c-ZnO heterojunction nanocomposites.CeramicsInternational.47.10.1016/j.ceramint.2021.03.206.
