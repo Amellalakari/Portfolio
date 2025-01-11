@@ -57,11 +57,11 @@ Advanced microfabrication techniques to create precise and functional microfluid
 
 As part of my research, I optimized and performed cell culture inside microfluidic devices to replicate physiological conditions. This process involved the isolation and introduction of red blood cells (RBCs) and monocytes into precisely fabricated microchannels. Using controlled flow rates and media, I maintained viable cell cultures under dynamic conditions, enabling the study of cell behavior, interactions, and mechanical properties within the device. The microfluidic platform ensured a high degree of control over environmental parameters, facilitating detailed analyses of cell function and response in both normoxic and hypoxic conditions.
 
-![Gif](asset/Amira_AishuÇ_0.1ul_20pª_1000fps_C001S0012.gif)
+[Gif](asset/Amira_AishuÇ_0.1ul_20pª_1000fps_C001S0012.gif)
 
 ## Cell Culture of Macrophages and Endothelial Cells in Microfluidic Devices
 
-[image](asset/Slide2.png),       [image](asset/Slide3.png)
+![image](asset/Slide2.png),       ![image](asset/Slide3.png)
 
 In my research, I successfully cultured macrophages and endothelial cells inside microfluidic devices to replicate tissue-specific microenvironments. These cultures required precise control of flow conditions, media composition, and environmental parameters to ensure cell viability and functionality. The platform facilitated the study of macrophage-endothelial interactions and their response to varying physiological conditions. This work highlighted the potential of microfluidic systems for studying complex cell behaviors and their applications in tissue engineering and disease modeling.
 
