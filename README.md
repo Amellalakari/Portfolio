@@ -1,7 +1,7 @@
 # portfolio
 
 # Aishwarya Mellalakari
-/asset/Photo.jpeg
+![image](asset/Photo.jpeg)
 
 # Scientist-Biomedical Engineer
 
