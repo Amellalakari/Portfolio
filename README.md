@@ -73,6 +73,7 @@ In this project, I worked on developing temperature-sensitive magnetic liposomes
 I contributed to developing rGO-PANI-assisted c-ZnO heterojunction nanocomposites for solar light-activated photocatalytic degradation of pharmaceutical pollutants and dyes. My work involved the synthesis of advanced nanocomposites and their characterization using techniques such as XRD, FE-SEM, and UV-Vis spectroscopy. The research demonstrated the potential of these nanocomposites to efficiently degrade antibiotics like amoxicillin and dyes under natural sunlight, providing a sustainable approach to industrial effluent treatment and water purification.
  [publication](https://github.com/Amellalakari/portfolio/blob/4010c76d975134ca04ecea3658a8864436398373/asset/1-s2.0-S0272884221008956-main.pdf)
 
+[*Transcripts and Certificates*](https://github.com/Amellalakari/portfolio/blob/aac854fc75360e940430e151102f9313ec103374/asset/Transcripts%20and%20Certificates%20UAANS.pdf)
 ## Courses and certifications 
 - CFD Simulations in COMSOL Multiphysics [certificate](https://github.com/Amellalakari/portfolio/blob/d68f1b1920c32e46c56d01ea71ccfcc6f80a52eb/asset/CFD%20Simulations%20in%20COMSOL%20Multiphysiscs.pdf)
 - Quantitative Light Microscopy at Centre for Genomic Regulation (CRG), Barcelona  [certificate](https://github.com/Amellalakari/portfolio/blob/4010c76d975134ca04ecea3658a8864436398373/asset/CRG_certificate.pdf)
