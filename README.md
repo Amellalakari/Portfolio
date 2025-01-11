@@ -74,9 +74,9 @@ I contributed to developing rGO-PANI-assisted c-ZnO heterojunction nanocomposite
  [publication](https://github.com/Amellalakari/portfolio/blob/4010c76d975134ca04ecea3658a8864436398373/asset/1-s2.0-S0272884221008956-main.pdf)
 
 ## Courses and certifications 
-- CFD Simulations in COMSOL Multiphysics [certificate](https://github.com/Amellalakari/portfolio/blob/d68f1b1920c32e46c56d01ea71ccfcc6f80a52eb/asset/CFD%20Simulations%20in%20COMSOL%20Multiphysiscs.pdf )
+- CFD Simulations in COMSOL Multiphysics [certificate](https://github.com/Amellalakari/portfolio/blob/d68f1b1920c32e46c56d01ea71ccfcc6f80a52eb/asset/CFD%20Simulations%20in%20COMSOL%20Multiphysiscs.pdf)
 - Quantitative Light Microscopy at Centre for Genomic Regulation (CRG), Barcelona  [certificate](https://github.com/Amellalakari/portfolio/blob/4010c76d975134ca04ecea3658a8864436398373/asset/CRG_certificate.pdf)
--Exploringentrprenureship [certificate](https://github.com/Amellalakari/portfolio/blob/4010c76d975134ca04ecea3658a8864436398373/asset/Exploring%20entrprenureship_cert.pdf)
+- Exploringentrprenureship [certificate](https://github.com/Amellalakari/portfolio/blob/4010c76d975134ca04ecea3658a8864436398373/asset/Exploring%20entrprenureship_cert.pdf)
 -	To process to establish a spin-off/start-up at IBEC
 -	Basic notions to understand and deal with Venture Capital companies 
 -	Researcher - Industry: modes of partnership 
