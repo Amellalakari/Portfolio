@@ -6,11 +6,11 @@
 # Scientist-Biomedical Engineer
 
 ## SKILLS
-- Microfabrication techniques: Plasma cleaner, UV Mask aligner, Spin coater, Profilometry, Soft lithography, Backside lithography.
-- Human Cell Culture: Worked with human spleen Monocytes , endothelial cells cultured them inside the Microfluidic chip and handled the patient red blood cell inside the microfluidic device.
-- Nanoparticle Synthesis: Gold nanoparticles, Silver nanoparticles, Magnetic nanoparticles, Chitosan nanoparticles, Magnetic lipid nano. capsules, ZnO nanocomposites, Hydrogel.
-- Instruments known / Handling : Biodrop, DLS, Z-scan technique, Scanning electron Microscope, Transmission Electron Microscope, X-RD, FTIR .
-- Digital Skills: C++, Python , AUTOCAD, COMSOL, Microsoft Office package: Microsoft Word, Excel, PowerPoint, outlook, teams.
+- *Microfabrication techniques*: Plasma cleaner, UV Mask aligner, Spin coater, Profilometry, Soft lithography, Backside lithography.
+- *Human Cell Culture*: Worked with human spleen Monocytes, and endothelial cells cultured them inside the Microfluidic chip, and handled the patient's red blood cells inside the microfluidic device.
+- *Nanoparticle Synthesis*: Gold nanoparticles, Silver nanoparticles, Magnetic nanoparticles, Chitosan nanoparticles, Magnetic lipid nano. capsules, ZnO nanocomposites, Hydrogel.
+- *Instruments known / Handling*: Biodrop, DLS, Z-scan technique, Scanning electron Microscope, Transmission Electron Microscope, X-RD, FTIR.
+- *Digital Skills*: C++, Python, AUTOCAD, COMSOL, Microsoft Office package: Microsoft Word, Excel, PowerPoint, outlook, teams.
 
 ## Education
 - Ph.D., Biomedicne- Biomedical engineering | University of Barcelona , Barcelona (_Sep 2025_)    		
@@ -48,7 +48,6 @@ In my PhD, I developed a Spleen-on-Chip model to study the mechanical properties
 Utilized COMSOL Multiphysics to simulate and optimize the microfluidic device design. These simulations were crucial in understanding fluid dynamics, shear stresses, and particle behavior within the chip. By leveraging COMSOL, I refined the design parameters to ensure accurate replication of the spleen's microenvironment, enhancing the device's performance and reliability for studying red blood cell mechanics and interactions. This process demonstrated my expertise in computational modeling and its application to microfluidic device development.
 
 ### Microfabrication Techniques
-![image](asset/PDMSMicrofluidicChipFabricationcopy.png).
 
 Advanced microfabrication techniques to create precise and functional microfluidic devices. I utilized photolithography and backside lithography to design and fabricate intricate microchannel structures that mimic the spleen's microenvironment. These techniques allowed for high-resolution patterning and ensured the scalability of the device. Additionally, soft lithography using PDMS (polydimethylsiloxane) was employed to construct the chip, offering flexibility and biocompatibility essential for cellular studies. My proficiency in microfabrication ensured the development of a robust platform for studying red blood cell mechanics.
 
