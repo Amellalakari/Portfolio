@@ -46,7 +46,7 @@ In my PhD, I developed a Spleen-on-Chip model to study the mechanical properties
 ### Device Optimization Using COMSOL Simulations
 
 Utilized COMSOL Multiphysics to simulate and optimize the microfluidic device design. These simulations played a crucial role in understanding fluid dynamics, shear stresses, and particle behavior within the chip. By leveraging COMSOL, I was able to refine the design parameters to ensure accurate replication of the spleen's microenvironment, enhancing the device's performance and reliability for studying red blood cell mechanics and interactions. This process demonstrated my expertise in computational modeling and its application to microfluidic device development.
-![](asset/comsol.e.png)
+![image](asset/comsol.e.png)
 
 
 ### Microfabrication Techniques
