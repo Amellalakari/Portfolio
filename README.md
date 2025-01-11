@@ -42,6 +42,7 @@ Development of Splenic Chip Model for studying Rheological properties of the Red
 In my PhD, I developed a Spleen-on-Chip model to study the mechanical properties of red blood cells (RBCs). This innovative microfluidic device mimics the spleen's microenvironment, enabling precise analysis of RBC deformability under both normoxic and hypoxic conditions. The project involved advanced techniques such as microfabrication, cell culture, and finite element analysis (FEA) to design and validate the device. This model has potential applications in understanding blood disorders and developing targeted therapies. My work culminated in significant insights into RBC behavior, contributing to the advancement of organ-on-chip technology.
 ![image](asset/spleenonchip.png)
 
+
 ### Device Optimization Using COMSOL Simulations
 
 Utilized COMSOL Multiphysics to simulate and optimize the microfluidic device design. These simulations played a crucial role in understanding fluid dynamics, shear stresses, and particle behavior within the chip. By leveraging COMSOL, I was able to refine the design parameters to ensure accurate replication of the spleen's microenvironment, enhancing the device's performance and reliability for studying red blood cell mechanics and interactions. This process demonstrated my expertise in computational modeling and its application to microfluidic device development.
