@@ -55,7 +55,7 @@ As part of my research, I optimized and performed cell culture inside microfluid
 
 ![Gif](asset/Amira_AishuÇ_0.1ul_20pª_1000fps_C001S0012.gif)
 
-## Cell Culture of Macrophages and Endothelial Cells in Microfluidic Devices
+## Culture of Macrophages and Endothelial Cells in Microfluidic Devices
 
 ![image](asset/Slide2.png),       ![image](asset/Slide3.png)
 
