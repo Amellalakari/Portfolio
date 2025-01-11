@@ -3,11 +3,11 @@
 ## Scientist-Biomedical Engineer
 
 ## SKILLS
-- *Microfabrication techniques*: Plasma cleaner, UV Mask aligner, Spin coater, Profilometry, Soft lithography, Backside lithography.
-- *Human Cell Culture*: Worked with human spleen Monocytes, and endothelial cells cultured them inside the Microfluidic chip, and handled the patient's red blood cells inside the microfluidic device.
-- *Nanoparticle Synthesis*: Gold nanoparticles, Silver nanoparticles, Magnetic nanoparticles, Chitosan nanoparticles, Magnetic lipid nano. capsules, ZnO nanocomposites, Hydrogel.
-- *Instruments known / Handling*: Biodrop, DLS, Z-scan technique, Scanning electron Microscope, Transmission Electron Microscope, X-RD, FTIR.
-- *Digital Skills*: C++, Python, AUTOCAD, COMSOL, Microsoft Office package: Microsoft Word, Excel, PowerPoint, outlook, teams.
+- **Microfabrication techniques**: Plasma cleaner, UV Mask aligner, Spin coater, Profilometry, Soft lithography, Backside lithography.
+- **Human Cell Culture**: Worked with human spleen Monocytes, and endothelial cells cultured them inside the Microfluidic chip, and handled the patient's red blood cells inside the microfluidic device.
+- **Nanoparticle Synthesis**: Gold nanoparticles, Silver nanoparticles, Magnetic nanoparticles, Chitosan nanoparticles, Magnetic lipid nano. capsules, ZnO nanocomposites, Hydrogel.
+- **Instruments known / Handling**: Biodrop, DLS, Z-scan technique, Scanning electron Microscope, Transmission Electron Microscope, X-RD, FTIR.
+- **Digital Skills**: C++, Python, AUTOCAD, COMSOL, Microsoft Office package: Microsoft Word, Excel, PowerPoint, outlook, teams.
 
 ## Education
 - Ph.D., Biomedicne- Biomedical engineering | University of Barcelona , Barcelona (_Sep 2025_)    		
@@ -15,17 +15,17 @@
 - B.Tech., Nanotechnolgy| Amity University ( AINT) (_Nov 2018_)
 
 ## Work Experience
-**Pre-doctoral researcher at the Institute for Bioengineering of Catalunya, Barcelona, Spain
+**Pre-doctoral researcher** at the Institute for Bioengineering of Catalunya, Barcelona, Spain
 Development of Splenic Chip Model for studying Rheological properties of the Red blood cells under Prof. Josep Samitier Marti.
 - Designed prototypes using SolidWorks and AutoCAD, optimizing ergonomic and manufacturable device enclosures for microfluidic applications.
 - Conducted iterative testing protocols, including mechanical, thermal, and environmental testing, ensuring compliance with ISO 13485 standards.
 - Collaborated with cross-functional teams of engineers and biomedical scientists, aligning system design with overall project objectives.
 - Delivered technical documentation, including specifications, test results, and research findings for internal and external stakeholders.
 
-**Visiting Researcher at Sanquin Research(Blood bank and Research center) Amsterdam , Netherlands 
+**Visiting Researcher** at Sanquin Research(Blood bank and Research center) Amsterdam , Netherlands 
 - Implemented novel protocols for the isolation and differentiation of Monocytes within the Microfluidic Device, resulting in a 40% increase in cell viability compared to traditional methods to understand the interaction and behavior of the Red blood cells with Monocytes. 
 
-**Master thesis Student at Indian Institute of Technology, Hyderabad 
+**Master thesis Student** at Indian Institute of Technology, Hyderabad 
 - Developed magnetic lipid nanocapsules for hyperthermia applications, targeting cancer cells, and preserving healthy tissue.
 - Prepared magnetic nanoparticles and tested efficacy in hyperthermia techniques for cancer treatment.
 - Conducted experiments to optimize the formulation and enhance the targeting capabilities of the nanocapsules.
@@ -36,7 +36,7 @@ Development of Splenic Chip Model for studying Rheological properties of the Red
 
 ## Spleen-on-Chip Project
 ![image](asset/spleen on chip.png)
-In my PhD, I developed a Spleen-on-Chip model to study the mechanical properties of red blood cells (RBCs). This innovative microfluidic device mimics the spleen's microenvironment, enabling precise analysis of RBC deformability under both normoxic and hypoxic conditions. The project involved advanced techniques such as microfabrication, cell culture, and finite element analysis (FEA) to design and validate the device. This model has potential applications in understanding blood disorders and developing targeted therapies. My work culminated in significant insights into RBC behavior, contributing to the advancement of organ-on-chip technology.
+I developed a Spleen-on-Chip model to study the mechanical properties of red blood cells (RBCs). This innovative microfluidic device mimics the spleen's microenvironment, enabling precise analysis of RBC deformability under both normoxic and hypoxic conditions. The project involved advanced techniques such as microfabrication, cell culture, and finite element analysis (FEA) to design and validate the device. This model has potential applications in understanding blood disorders and developing targeted therapies. My work culminated in significant insights into RBC behavior, contributing to the advancement of organ-on-chip technology.
 
 ### Device Optimization Using COMSOL Simulations
 
