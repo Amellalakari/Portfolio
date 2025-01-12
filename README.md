@@ -7,7 +7,7 @@
 - **Human Cell Culture**: Worked with human spleen Monocytes, and endothelial cells cultured them inside the Microfluidic chip, and handled the patient's red blood cells inside the microfluidic device.
 - **Nanoparticle Synthesis**: Gold nanoparticles, Silver nanoparticles, Magnetic nanoparticles, Chitosan nanoparticles, Magnetic lipid nano. capsules, ZnO nanocomposites, Hydrogel.
 - **Instruments known / Handling**: Biodrop, DLS, Z-scan technique, Scanning electron Microscope, Transmission Electron Microscope, X-RD, FTIR.
-- **Digital Skills**: C++, Python, AUTOCAD, COMSOL, Microsoft Office package: Microsoft Word, Excel, PowerPoint, outlook, teams.
+- **Digital Skills**: C++, Python, AUTOCAD, COMSOL, IMAGEJ, Fiji, Microsoft Office package: Microsoft Word, Excel, PowerPoint, outlook, teams.
 
 ## Education
 - Ph.D., Biomedicne- Biomedical engineering | University of Barcelona , Barcelona (_Sep 2025_)    		
